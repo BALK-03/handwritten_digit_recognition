@@ -1,7 +1,3 @@
-![Handwritten Digit Recognition](Downloads/1_KklX2Q5MehJi-QoA_epm4Q.jpg)
-
-
-
 
 
 ## *Handwritten Digit Recognition*
