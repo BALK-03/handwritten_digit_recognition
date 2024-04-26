@@ -1,4 +1,4 @@
-
+![1_KklX2Q5MehJi-QoA_epm4Q](https://github.com/BALK-03/handwritten_digit_recognition/assets/145299162/b596b492-c7bf-4ca7-91b5-f5cc8a130b50)
 
 ## *Handwritten Digit Recognition*
 
