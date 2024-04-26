@@ -1,4 +1,4 @@
-### **Handwritten Digit Recognition**
+## *Handwritten Digit Recognition*
 
 A model trained to process a 28 by 28 pixel image containing a number between 0 and 9 and recognize the number depicted in the image.
 
