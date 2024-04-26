@@ -1,0 +1,2 @@
+The test pictures in this folder were created using Paint.
+The pictures must be 28 by 28 pixels.
