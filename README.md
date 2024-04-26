@@ -1,4 +1,4 @@
-![Handwritten Digit Recognition](‪C:\Users\Lakhal Badr\Downloads\1_KklX2Q5MehJi-QoA_epm4Q.webp)
+![Handwritten Digit Recognition](Downloads/1_KklX2Q5MehJi-QoA_epm4Q.jpg)
 
 
 
